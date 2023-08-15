@@ -2,5 +2,5 @@ package depend
 
 func Depend() {
 
-	println("v1.0.2")
+	println("v1.1.0")
 }
